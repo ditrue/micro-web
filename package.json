@@ -1,6 +1,6 @@
 {
-  "name": "micro-web",
-  "version": "1.0.0",
+  "name": "@ringobool/micro-web",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
